@@ -1,0 +1,46 @@
+# Ignore directories used by Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore files and directories used by various applications
+.appworks/
+.bash_history
+.dotnet/
+.git-for-windows-updater
+.gitconfig
+.idlerc/
+.lesshst
+.rest-client/
+.swt/
+.templateengine/
+.vscode/
+Creative Cloud Files/
+IntelGraphicsProfiles/
+CapCut.lnk
+Done! Congratulations on your new b.txt
+GIT/
+Geekbrains.ru.lnk
+Kontrol versii/
+Notion.lnk
+TeamViewer.lnk
+Viber.lnk
+Visual Studio Code.lnk
+Yandex.lnk
+b-9XbTfDJQWpj6 \320\221\320\225\320\241\320\237\320\233\320\220\320\242\320\235\320\253\320\225 \320\222\320\230\320\240\320\242\320\243\320\220\320\233\320\254\320\235.txt
+chatbot/
+desktop.ini
+figd_1oFtY9Yr-pZNwJQjhlRm5rj6KyyY6z.txt
+figd_Ba88oHL-l3DSS2y8LmyY97n86vQR7r.txt
+PycharmProjects/
+group_903/
