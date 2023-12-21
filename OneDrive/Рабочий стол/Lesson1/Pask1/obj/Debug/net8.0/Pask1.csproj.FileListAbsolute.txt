@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\bin\Debug\net8.0\Pask1.exe
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\bin\Debug\net8.0\Pask1.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\bin\Debug\net8.0\Pask1.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\bin\Debug\net8.0\Pask1.dll
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\bin\Debug\net8.0\Pask1.pdb
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.sourcelink.json
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.dll
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\refint\Pask1.dll
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.pdb
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\Pask1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Lesson1\Pask1\obj\Debug\net8.0\ref\Pask1.dll
