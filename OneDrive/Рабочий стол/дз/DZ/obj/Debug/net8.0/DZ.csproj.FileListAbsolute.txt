@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\bin\Debug\net8.0\DZ.exe
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\bin\Debug\net8.0\DZ.dll
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\bin\Debug\net8.0\DZ.pdb
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.dll
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.pdb
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\дз\DZ\obj\Debug\net8.0\ref\DZ.dll
